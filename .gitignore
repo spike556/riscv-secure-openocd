@@ -1,0 +1,4 @@
+*.pdf
+db/
+*db/
+/fpga/output/

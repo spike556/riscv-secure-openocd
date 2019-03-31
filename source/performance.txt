@@ -1,0 +1,7 @@
+AES: using  acceleration: 3020.5 - 3061.5 + 3090.5 - 3110.5 = 61 T (one encryption,one decryption)
+     before acceleration: 3158.5 - 33754.5 = 30596 T
+     500X speed up
+
+SHA256: using  acceleration: 33764.5 - 34010.5 = 246 T (two sha256 operation)
+        before acceleration: 34103.5 - 44052.5 = 9949 T
+        40X speed up
